@@ -1,7 +1,6 @@
 # Prompt-Dos
 Senha-e-Ocultar-Pasta
 
-<h4>
 1- crie uma nova pasta (nome a sua escolha)
 -------------------------------------------------------------------------------
 2- dentro desta pasta crie um arquivo com o bloco de notas e dentro do arquivo cole isto
@@ -58,5 +57,4 @@ Senha-e-Ocultar-Pasta
 -------------------------------------------------------------------------------
  8- para poder abrir sua pasta Private abra o arquivo bat que criamos e coloque sua senha no prompt de commando
  Pronto sua pasta aparecera
- 
- </h4>
+
